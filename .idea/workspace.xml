@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="978da685-741b-455d-8c09-060d7359d8b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clients.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Podcasts.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Producers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Producers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducersDB.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto2_KevinEstivenVelascoPinto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Songs.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/Content.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/PlayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/Playable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/Podcast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/PremiumClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/Song.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/StandardClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/exceptions/IncorrectAgeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/exceptions/IncorrectUsernameException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/exceptions/NamesAndLastNamesException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/exceptions/OtherStringsExceptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/exceptions/PasswordExceptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/exceptions/WordInputInNumberInputException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/exceptionshelpers/AgeHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/exceptionshelpers/FileHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/exceptionshelpers/InputHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/exceptionshelpers/NamesAndLastNamesHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/exceptionshelpers/OtherStringsHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/exceptionshelpers/PasswordHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Proyecto2_KevinEstivenVelascoPinto/com/company/exceptionshelpers/UsernameHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/out/production/spotify/com/company/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/out/production/spotify/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/out/production/spotify/com/company/Song.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/spotify.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/PlayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/Podcast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/PremiumClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/StandardClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/exceptions/IncorrectAgeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/exceptions/IncorrectUsernameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/exceptions/NamesAndLastNamesException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/exceptions/OtherStringsExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/exceptions/PasswordExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/exceptions/WordInputInNumberInputException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/exceptionshelpers/AgeHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/exceptionshelpers/FileHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/exceptionshelpers/InputHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/exceptionshelpers/NamesAndLastNamesHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/exceptionshelpers/OtherStringsHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/exceptionshelpers/PasswordHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spotify/src/com/company/exceptionshelpers/UsernameHelper.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/spotify/src/com/company/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="27GP7WkGuT59TlD3UiMggrMzttY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/DELL/Documents/Universidad/2do semestre/PROGRAMACIÓN AVANZADA/Proyecto 2 y 3/Proyecto2_KevinEstivenVelascoPinto",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.exceptions" />
+      <recent name="com.company.exceptionshelpers" />
+      <recent name="com.company.exceptionshelper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Proyecto2_KevinEstivenVelascoPinto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.exceptionshelpers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="978da685-741b-455d-8c09-060d7359d8b7" name="Changes" comment="" />
+      <created>1648943283308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648943283308</updated>
+      <workItem from="1648943284437" duration="14000" />
+      <workItem from="1648943344040" duration="23619000" />
+      <workItem from="1649334683812" duration="17144000" />
+      <workItem from="1649387527998" duration="2849000" />
+      <workItem from="1649430843639" duration="6384000" />
+      <workItem from="1649599650872" duration="11423000" />
+      <workItem from="1650500364534" duration="5573000" />
+      <workItem from="1650553885317" duration="29000" />
+      <workItem from="1650554098602" duration="36000" />
+      <workItem from="1650554157663" duration="13000" />
+      <workItem from="1650554186704" duration="3000" />
+      <workItem from="1650554226090" duration="128000" />
+      <workItem from="1650556450084" duration="141000" />
+      <workItem from="1650556643776" duration="2767000" />
+      <workItem from="1650896591694" duration="10299000" />
+      <workItem from="1650910115075" duration="2220000" />
+      <workItem from="1650930240966" duration="12148000" />
+      <workItem from="1650979176681" duration="16300000" />
+      <workItem from="1651090319773" duration="6626000" />
+      <workItem from="1651097700024" duration="40000" />
+      <workItem from="1651097825097" duration="54000" />
+      <workItem from="1651150764515" duration="4152000" />
+      <workItem from="1651159279277" duration="1285000" />
+      <workItem from="1651582754566" duration="2290000" />
+      <workItem from="1651756450506" duration="1373000" />
+      <workItem from="1651757852991" duration="161000" />
+      <workItem from="1651758026608" duration="6878000" />
+      <workItem from="1651765666971" duration="76000" />
+      <workItem from="1652185230648" duration="11386000" />
+      <workItem from="1652214822452" duration="8330000" />
+      <workItem from="1652278162602" duration="1555000" />
+      <workItem from="1652283737400" duration="36000" />
+      <workItem from="1652283848678" duration="8000" />
+      <workItem from="1652360985809" duration="9265000" />
+      <workItem from="1652708312185" duration="657000" />
+      <workItem from="1652734971463" duration="686000" />
+      <workItem from="1652735710748" duration="63000" />
+      <workItem from="1652735798643" duration="15664000" />
+      <workItem from="1652789358701" duration="6311000" />
+      <workItem from="1652804717113" duration="29925000" />
+      <workItem from="1652902263797" duration="841000" />
+      <workItem from="1652903233142" duration="16214000" />
+      <workItem from="1652962396225" duration="21638000" />
+      <workItem from="1653082036094" duration="1281000" />
+      <workItem from="1653351759428" duration="3196000" />
+      <workItem from="1653953349101" duration="1131000" />
+      <workItem from="1654000267615" duration="1035000" />
+      <workItem from="1686114539840" duration="45000" />
+      <workItem from="1686158934199" duration="468000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.company.PremiumClient" memberName="id" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
